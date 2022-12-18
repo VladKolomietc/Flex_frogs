@@ -1171,8 +1171,8 @@ menu details a:hover {
   height: 100vh; /* viewport height */
   background: #1f5768;
   z-index: -1;
-  width: 100%;
-  min-width: 600px;
+
+  width: 800px;
   padding: 25px;
 }
 
@@ -1285,7 +1285,7 @@ menu details a:hover {
   display: flex;
   flex-wrap: wrap;
   height: 100vh; /* viewport height */
-  min-width: 600px;
+  width: 800px;
 }
 /* 22 рівень */
 .plants:nth-of-type(43) {
@@ -1297,8 +1297,8 @@ menu details a:hover {
   height: 100vh; /* viewport height */
   background: #1f5768;
   z-index: -1;
-  width: 100%;
-  min-width: 600px;
+  width: 800px;
+
   padding: 25px;
 }
 
@@ -1334,10 +1334,10 @@ menu details a:hover {
   background: green;
 }
 .plants:nth-of-type(43) .plant:nth-child(6) {
-  background: red;
+  background: green;
 }
 .frogs:nth-of-type(44) .frog:nth-child(6) {
-  background: red;
+  background: green;
 }
 .plants:nth-of-type(43) .plant:nth-child(7) {
   background: green;
@@ -1404,7 +1404,7 @@ menu details a:hover {
   display: flex;
   flex-wrap: wrap;
   height: 100vh; /* viewport height */
-  min-width: 600px;
+  width: 800px;
 }
 /* 23 рівень */
 
